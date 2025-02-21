@@ -253,3 +253,11 @@ p {
     bottom: 20px;
     right: 10px;
 }
+
+#product1 .pro-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 20px;
+    flex-wrap: wrap;
+}
